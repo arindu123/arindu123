@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Semal Amarajeewa3!
 
-<!--
-**arindu123/arindu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student at **SLIIT** in the **Information Technology** field.  
+💻 I'm passionate about **software development**, especially in **front-end technologies**.  
+🎯 My focus is on creating responsive, user-friendly web applications.  
+🌱 Currently learning **React**, **JavaScript**, and exploring the **MERN stack**.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- HTML, CSS, JavaScript
+- React.js, Bootstrap, Tailwind CSS
+- Git & GitHub
+- Java, MySQL, Node.js (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- Email: [amarajeewa355@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/arindu-semal-4157a2358)
+---
+
+Thanks for visiting my profile! 😊
+
