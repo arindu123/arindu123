@@ -11,7 +11,7 @@
 - 🎓 I'm currently pursuing a degree in **Information Technology at SLIIT**
 - 🌱 I’m currently learning **React**, **Node.js**, and exploring the **MERN stack**
 - 🎯 Interested in **responsive UI design**, **modern web apps**, and **open-source**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **amarajeewa355@gmail.com**
 
 ---
 
