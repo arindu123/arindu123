@@ -230,7 +230,7 @@ Strong understanding of Material Design and responsiveness.
 
 📧 **Email:** amarajeewa355@gmail.com  
 📱 **Phone:** +94 774254139  
-🔗 **LinkedIn:** [Arindu Semal](https://www.linkedin.com/in/arindu-semal-4157a2358)  
+🔗 **LinkedIn:** [Arindu Semal]((http://linkedin.com/in/semal-amarajeewa-4157a2358))  
 💻 **GitHub:** [@arindu123](https://github.com/arindu123)  
 
 [![Let's Collaborate](https://img.shields.io/badge/Let's_Collaborate-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](mailto:amarajeewa355@gmail.com)
